@@ -1,8 +1,6 @@
 
   # Clinic Management System
 
-  This is a code bundle for Clinic Management System. The original project is available at https://www.figma.com/design/hJkvtQyzRuneOPkzrl8pI2/Clinic-Management-System.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
